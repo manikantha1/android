@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+
+    <color name="blue">#38B8FC</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#FFE9D2</color>
+    <!-- #F3DECB -->
+
+    <color name="black">#000000</color>
+    <color name="disha_color">#000000</color>
+    <color name="loginbuttonboxcolor">#1a1a1a</color>
+    <color name="fontcolor">#4d4d4d</color>
+    <color name="loginfontcolor">#676767</color>
+    <color name="loginboxcolor">#f3f3f3</color>
+    <color name="gold">#ecc822</color>
+    <color name="lightblue">#ff0071e1</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="bluestar">#3F51B5</color>
+    <color name="yellow">#FFFF66</color>
+    <color name="aqua">#CCFFFF</color>
+    <color name="titleTextColor">#445566</color>
+    <color name="valueTextColor">#445566</color>
+    <color name="checkBoxTextColor">#445566</color>
+    <color name="deviderBorderColor">#99445566</color>
+    <color name="gray">#BBBBBB</color>
+    <color name="oddGridColor">#FF222222</color>
+    <color name="loginColor">#F05223</color>
+    <color name="StripColor">#f68a34</color>
+    <color name="evenGridColor">#FF333333</color>
+    <color name="headerGridColor">#FF999999</color>
+    <color name="rowFocusedColor">#ff008c8c</color>
+    <color name="fullTransparent">#00000000</color>
+    <color name="paleBlue">#F05223</color>
+    <color name="titleTopColor">#b23336</color>
+    <color name="titleButtomColor">#f89e32</color>
+    <color name="editTextManadatoryColor">#fffaf0</color>
+    <color name="buttonColor">#e03336</color>
+    <color name="irisbuttonColor">#aaaaaa</color>
+    <color name="enabledFieldsColors">#C3C3C3</color>
+    <color name="loginBackgroundColor">#fdd624</color>
+    <!--<color name="paleBlue">#32AABB</color>-->
+    <color name="textColor">#445566</color>
+    <color name="lightGray">#3a4445</color>
+    <color name="backgroundColor">#D7D7D7</color>
+    <color name="fontColor">#5e696b</color>
+    <color name="imageViewBackground">#44ababab</color>
+    <color name="customerEnrollCensusColor">#4d4d4d</color>
+    <color name="customerEnrollCensusBGColor">#606060</color>
+
+    <!-- New Colores -->
+    <color name="fieldInnerNameColor">#000000</color>
+    <color name="fieldInnerConstantNameColor">#000000</color>
+    <color name="customerEnrollCensusSelectColor">#1a1a1a</color>
+    <color name="customerEnrollCensusSelectInnerColor">#000000</color>
+    <color name="customerEnrollCensusSelectVillageColor">#000000</color>
+    <color name="fieldHead">#1a1a1a</color>
+    <color name="checkboxtextcolorf">@color/StripColor</color>
+
+</resources>
